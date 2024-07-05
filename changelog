@@ -3,6 +3,7 @@
 - Version number displayed
 - Red border
 - Pointer appears when hovering over game
+- Added a version checker to see if you're on the latest version
 
 1.0.0:
 - First version
