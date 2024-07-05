@@ -31,9 +31,9 @@ To install Treme's Ultimate Game Extension, follow these steps:
 
 ## Enjoy the Games!
 
-Once installed, you can hover over the name of the game you want to play, then click on it to play
+Once installed, you can hover over the name of the game you want to play, then click on it to play.
 
-Have fun playing!
+Have fun gaming!
 
 ## Support
 
